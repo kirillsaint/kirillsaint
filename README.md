@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kirillsaint&show_icons=true&&theme=tokyonight" />
+</p>
+
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/kirillsaint/&title=Profile%20Views)
+
+
+
 <!--
 **kirillsaint/kirillsaint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
