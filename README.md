@@ -12,7 +12,7 @@
 
 ## Hypixel Level
 
-![daun](https://gen.plancke.io/exp/prsnv.png)
+![daun](https://gen.plancke.io/exp/062f1b38-ebeb-4efe-9b57-2684930ae167.png)
 
 <!--
 **kirillsaint/kirillsaint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
