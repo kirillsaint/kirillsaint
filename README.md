@@ -10,6 +10,8 @@
 
 ![cringe](https://novatorem-l6z2bx0rc-clownless.vercel.app/api/spotify)
 
+## Hypixel Level
+
 ![daun](https://gen.plancke.io/exp/prsnv.png)
 
 <!--
