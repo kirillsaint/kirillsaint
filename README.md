@@ -6,7 +6,7 @@
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/kirillsaint/&title=Profile%20Views)
 
-## ![ladno](https://rf0x3d.su/maybe_assets/music_outline_28.svg) Spotify Now Playing
+## Spotify Now Playing
 
 ![cringe](https://novatorem-l6z2bx0rc-clownless.vercel.app/api/spotify)
 
