@@ -1,6 +1,4 @@
 
-<script>alert('aboba')</script>
-
 ![putin](https://github-readme-stats.vercel.app/api?username=kirillsaint&show_icons=true&&theme=tokyonight)
 
 ![​biden​](https://github-readme-stats.vercel.app/api/top-langs/?username=kirillsaint&layout=compact&theme=dark)
