@@ -1,13 +1,11 @@
 
+## 👋 Hello!
+
 ![putin](https://github-readme-stats.vercel.app/api?username=kirillsaint&show_icons=true&&theme=tokyonight)
 
 ![​biden​](https://github-readme-stats.vercel.app/api/top-langs/?username=kirillsaint&layout=compact&theme=dark)
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/kirillsaint/&title=Profile%20Views)
-
-## Spotify Now Playing
-
-spotify is blocked =(
 
 <!--
 **kirillsaint/kirillsaint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
