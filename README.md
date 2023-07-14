@@ -7,11 +7,8 @@ I'm kirillsaint, I'm the same web developer from russia who codes in typescript,
 
 ## shit info
 
-![putin](https://github-readme-stats.vercel.app/api?username=kirillsaint&show_icons=true&&theme=tokyonight)
-
-![​zelensky​](https://github-readme-stats.vercel.app/api/wakatime/?username=kirillsaint&layout=compact&theme=tokyonight)
-
-![​biden​](https://github-readme-stats.vercel.app/api/top-langs/?username=kirillsaint&layout=compact&theme=tokyonight)
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=kirillsaint&show_icons=true&&theme=tokyonight" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=kirillsaint&layout=compact&theme=tokyonight" /> |
+| ------------- | ------------- |
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/kirillsaint/&title=Profile%20Views)
 
