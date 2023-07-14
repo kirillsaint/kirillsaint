@@ -9,7 +9,9 @@ I'm kirillsaint, I'm the same web developer from russia who codes in typescript,
 
 ![putin](https://github-readme-stats.vercel.app/api?username=kirillsaint&show_icons=true&&theme=tokyonight)
 
-![​biden​](https://github-readme-stats.vercel.app/api/top-langs/?username=kirillsaint&layout=compact&theme=dark)
+![​zelensky​](https://github-readme-stats.vercel.app/api/wakatime/?username=kirillsaint&layout=compact&theme=tokyonight&hide_border=true)
+
+![​biden​](https://github-readme-stats.vercel.app/api/top-langs/?username=kirillsaint&layout=compact&theme=tokyonight)
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/kirillsaint/&title=Profile%20Views)
 
